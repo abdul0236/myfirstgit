@@ -1,0 +1,18 @@
+git clone "url"
+cd "directory"
+touch "filename"
+git add filename
+git commit -m "comments"
+git status
+git logs
+git push origin main
+git reset "filename"  sharing area to working area
+git reset --soft -HEAD~1 local to sharing area
+git reset "filename"
+git reset --soft -HEAD~1
+git reset "filename"
+git reset --soft HEAD~1
+git reset --soft HEAD~1
+git reset --soft HEAD~1
+git reset --soft HEAD~1
+
