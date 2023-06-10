@@ -13,4 +13,4 @@ if want to push the file back to sharing area from localhost use command git res
 now to push it git hub use command git push origin main.
 use command git status to check code is in which area 
 use command git log to check commit id
-
+}
