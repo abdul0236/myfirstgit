@@ -1,0 +1,16 @@
+ {
+ Hello this is the process of moving the file from git bash to git hub
+ first clone the repo using the command
+ git clone "URL"
+ cd "reponame"
+ ls to list the file
+ touch to create a file
+ now it is in working area 
+ to move it to sharing area use command git add "file-name"
+ if you want to bring back it to working area from sharing area use command git reset "file-name"
+ Now again to move if from sharing area to local host use command git commit -m "comment"
+if want to push the file back to sharing area from localhost use command git reset --soft HEAD~1
+now to push it git hub use command git push origin main.
+use command git status to check code is in which area 
+use command git log to check commit id
+
